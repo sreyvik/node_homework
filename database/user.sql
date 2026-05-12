@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `users_db`
+-- Database: `user`
 --
 
 -- --------------------------------------------------------
@@ -40,9 +40,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `age`, `email`, `created_at`) VALUES
-(1, 'Tim', 20, 'tola@gmail.com', '2026-05-04 08:52:38'),
-(5, 'Tola', 20, 'fola@gmail.com', '2026-05-04 08:53:34'),
-(6, 'Dara', 20, 'Dara@gmail.com', '2026-05-04 08:54:05');
+(1, 'Sreyvik', 20, 'sreyvik@gmail.com', '2026-05-04 08:52:38'),
+(5, 'Sreymom', 20, 'sreymom@gmail.com', '2026-05-04 08:53:34'),
+(6, 'Chem', 20, 'chem@gmail.com', '2026-05-04 08:54:05');
 
 --
 -- Indexes for dumped tables
